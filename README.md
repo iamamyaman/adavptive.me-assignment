@@ -1,0 +1,1 @@
+# adavptive.me-assignment
