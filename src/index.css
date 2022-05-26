@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Urbanist:wght@600;700&display=swap');
+
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Urbanist', sans-serif;
+    overflow-x: hidden;
+}
+
+body,html{
+    scroll-behavior: smooth;
+    
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
